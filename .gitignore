@@ -1,0 +1,79 @@
+# Gitignore for Attitude Adjustment Project
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.log
+temp/
+
+# OS files
+__pycache__/
+*.pyc
+
+# Project-specific excludes
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Node.js/yarn/npm
+node_modules/
+.npm
+.yarn
+
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
+
+# Python
+__pycache__/
+.pyc
+.pyo
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.eggs/
+
+# Documentation
+docs/
+*.md
+
+# Testing
+.test-coverage
+.coverage
+htmlcov/
+.tox/
+venv/
+env/
+
+# Others
+*.orig
+*.bak
+*.swp
+
+# Personal data shouldn't be tracked
+*.key
+*.pem
+
+# Ignore all lock files for this project
+*.lock
+
+# Ignore any system directory
+.DS_Store
+
+# Ignore any IDE directory
+.idea/
+.vscode/
