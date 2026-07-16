@@ -49,7 +49,6 @@ dist/
 
 # Documentation
 docs/
-*.md
 
 # Testing
 .test-coverage
