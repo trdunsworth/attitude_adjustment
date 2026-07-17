@@ -43,6 +43,14 @@ As of: $(date +%Y-%m-%d)
 - [ ] Practice positive self-talk
 - [ ] Daily meditation routine (start with 5-10 min, build to 30 min)
 - [ ] Tarot daily reading for self-reflection and guidance
+- [ ] **Daily Mood Log (Burns CBT)** - Record situation, emotions (0-100%), automatic thoughts, distortions, rational response, re-rate mood
+- [ ] **Identify Cognitive Distortions** - Label 10 distortions in real-time (All-or-Nothing, Overgeneralization, Mental Filter, Disqualifying Positive, Jumping to Conclusions, Magnification/Minimization, Emotional Reasoning, Should Statements, Labeling, Personalization)
+- [ ] **Evidence-Based Challenge** - For strongest negative thought: list evidence for/against; create balanced alternative
+- [ ] **Positive Reframing** - Before challenging: "What does this struggle reveal about my values? What's beautiful about my concern?"
+- [ ] **Behavioral Experiment** - Test one negative prediction weekly (predict → test → learn)
+- [ ] **Pleasure-Predicting Sheet** - Schedule 3 activities daily; predict enjoyment (0-100%); record actual
+- [ ] **Anti-Procrastination Sheet** - Break avoided task into micro-steps; predict difficulty/satisfaction; record actual
+- [ ] **Relapse Prevention** - Monthly: review early warning signs; update personal toolbox of most effective techniques
 
 ### Goal 5: Become a better friend and colleague
 

@@ -35,6 +35,17 @@ last_updated: "{{ LAST_UPDATED_DATE }}"
 
 {{ WINS }}
 
+## CBT/TEAM-CBT Daily Spot-Check
+
+| Check | Status | Notes |
+|---|---|---|
+| Completed Daily Mood Log (1+ entries) | [ ] Yes / [ ] No | |
+| Identified top distortion today | | |
+| Used evidence-based challenge | [ ] Yes / [ ] No | |
+| Practiced positive reframe | [ ] Yes / [ ] No | |
+| Behavioral experiment / exposure | [ ] Yes / [ ] No | |
+| Values-aligned action taken | | |
+
 ## Notes for Future Sessions
 
 {{ FUTURE_NOTES }}

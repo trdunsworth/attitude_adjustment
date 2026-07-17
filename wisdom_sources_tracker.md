@@ -66,8 +66,49 @@ Pema Chödrön is a prominent American Buddhist nun who teaches the teachings of
 #### Jesse Cole - Banana Ball Founder
 Jesse Cole is known for his innovative leadership approach with the Banana Ball Organization, which reverses traditional power dynamics in sports and education. His philosophy emphasizes joy, creativity, and service over competition and achievement.
 
-#### Akimitsu Takeuchi - AI and Modern Buddhism
-Akimitsu Takeuchi explores the integration of Buddhist principles with modern technology, particularly AI. His work examines how mindfulness and Buddhist ethics can inform the development and use of artificial intelligence.
+#### Dr. David Burns - Cognitive Behavioral Therapy (CBT)
+**Primary Texts**: "Feeling Good: The New Mood Therapy" (1980/2012), "Feeling Great: The Revolutionary New Treatment for Depression and Anxiety" (2020), "The Feeling Good Handbook" (1989/1999), "When Panic Attacks" (2006)
+
+**Core Framework**: TEAM-CBT (Testing, Empathy, Agenda Setting, Methods) - evidence-based, medication-free approach to Major Depressive Disorder and anxiety
+
+**Key Principles**:
+- Thoughts create feelings (not events themselves)
+- Depression/anxiety stem from 10 predictable cognitive distortions
+- Systematic cognitive restructuring changes mood
+- Daily Mood Log = primary tool (situation → emotions → thoughts → distortions → rational response → re-rate)
+- Positive reframing BEFORE challenging (reduces resistance)
+- Agenda setting addresses resistance before techniques
+- Relapse prevention via personal toolbox + early warning system
+
+**10 Cognitive Distortions**:
+1. All-or-Nothing Thinking
+2. Overgeneralization
+3. Mental Filter
+4. Disqualifying the Positive
+5. Jumping to Conclusions (Mind Reading, Fortune Telling)
+6. Magnification/Minimization
+7. Emotional Reasoning
+8. Should Statements
+9. Labeling
+10. Personalization
+
+**Practical Applications**:
+- **Daily Mood Log** - Core practice for real-time cognitive restructuring
+- **Pleasure-Predicting Sheet** - Combats anhedonia via behavioral activation
+- **Anti-Procrastination Sheet** - Breaks tasks into micro-steps with prediction/actual tracking
+- **Fear Hierarchy + Exposure** - Systematic desensitization for anxiety/avoidance
+- **Relationship Journal + EAR** - Empathy, Assertiveness, Respect for interpersonal conflicts
+- **Core Belief Work** - Downward Arrow → Continuum → Evidence gathering
+- **Externalization of Voices** - Role-play internal critic vs. compassionate responder
+- **Magic Button / Miracle Question** - Assess readiness, clarify values
+
+**Related Sources**: Stoicism (cognitive distancing), Buddhism (thoughts ≠ facts), Takeuchi (Behavioral Calibration × Pattern Recognition axis)
+
+**Progress in Attitude Adjustment**:
+Current status: [ ] Not started | [x] In progress | [ ] Completed
+Daily application: [x] Yes | [ ] Occasionally | [ ] No
+Primary tool: Daily Mood Log Template (daily_mood_log_template.md)
+Research doc: David_Burns_CBT_Research_Document.md
 
 #### Personal Tarot Practice (40+ years experience)
 A lifelong tarot practitioner who views tarot as a tool for self-reflection, personal growth, and intuitive development. The practice involves daily card pulls for guidance, studying tarot symbolism, and developing intuitive interpretation skills to enhance self-understanding.

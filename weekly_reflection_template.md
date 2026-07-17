@@ -50,7 +50,19 @@ created: "{{ CREATED_DATE }}"
 - **Taoism**: {{ TAOISM_APPLICATION }}
 - **Buddhism**: {{ BUDDHISM_APPLICATION }}
 - **Stoicism**: {{ STOICISM_APPLICATION }}
+- **CBT (Burns/TEAM-CBT)**: {{ CBT_APPLICATION }}
 - Other sources: {{ OTHER_SOURCES }}
+
+### CBT/TEAM-CBT Weekly Metrics
+
+| Metric | This Week | Target | Notes |
+|---|---|---|---|
+| Mood Log Entries | | 10+ | |
+| Avg Mood Improvement (pre→post) | | >20% | |
+| Top Distortion Spotted | | | |
+| Most Effective Technique | | | |
+| Behavioral Experiments Run | | 2+ | |
+| Positive Reframes Completed | | 3+ | |
 
 ## Action Items for Next Week
 

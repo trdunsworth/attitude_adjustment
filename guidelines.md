@@ -55,6 +55,13 @@ I am a polyglot comfortable in reading multiple languages and want to continue t
 - Jesse Cole - Banana Ball Founder
 - Akimitsu Takeuchi - AI and Modern Buddhism
 - Tarot
+- **Dr. David Burns - Cognitive Behavioral Therapy for Depression**
+  - *Core Texts*: "Feeling Good: The New Mood Therapy", "Feeling Great: The Revolutionary New Treatment for Depression and Anxiety", "The Feeling Good Handbook"
+  - *Key Framework*: TEAM-CBT (Testing, Empathy, Agenda Setting, Methods)
+  - *Core Tool*: Daily Mood Log with cognitive restructuring
+  - *10 Cognitive Distortions*: All-or-Nothing, Overgeneralization, Mental Filter, Disqualifying Positive, Jumping to Conclusions, Magnification/Minimization, Emotional Reasoning, Should Statements, Labeling, Personalization
+  - *Advanced Techniques*: Positive Reframing, Externalization of Voices, Downward Arrow, Magic Button, Behavioral Experiments, Exposure Hierarchies
+  - *Application*: Medication-free MDD management, relapse prevention, values-aligned action
 
 ### Theological
 
