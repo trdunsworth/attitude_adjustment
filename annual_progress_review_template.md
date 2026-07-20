@@ -141,6 +141,16 @@ Annual comprehensive review of progress across all Attitude Adjustment goals, re
   - Resilience development: {{ STOICISM_RESILIENCE }}
   - Stoic practices implemented: {{ STOICISM_PRACTICES }}
 
+- **Freemasonry**: {{ FREEMASONRY_ANNUAL_IMPACT }} (Rate 1-10)
+  - Key insights: {{ FREEMASONRY_ANNUAL_INSIGHTS }}
+  - Masonic virtues practiced: {{ FREEMASONRY_VIRTUES }}
+  - Lodge participation: {{ FREEMASONRY_LODGE }}
+
+- **Morals & Dogma (Albert Pike)**: {{ MORALS_DOGMA_ANNUAL_IMPACT }} (Rate 1-10)
+  - Key insights: {{ MORALS_DOGMA_ANNUAL_INSIGHTS }}
+  - Scottish Rite study progress: {{ MORALS_DOGMA_STUDY }}
+  - Virtues applied: {{ MORALS_DOGMA_VIRTUES }}
+
 #### Psychological Sources Application
 
 - **Dr. Thomas Moore - Soul Centered Psychology**: {{ MOORE_IMPACT }} (Rate 1-10)

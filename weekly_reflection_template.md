@@ -50,6 +50,8 @@ created: "{{ CREATED_DATE }}"
 - **Taoism**: {{ TAOISM_APPLICATION }}
 - **Buddhism**: {{ BUDDHISM_APPLICATION }}
 - **Stoicism**: {{ STOICISM_APPLICATION }}
+- **Freemasonry**: {{ FREEMASONRY_APPLICATION }}
+- **Morals & Dogma**: {{ MORALS_DOGMA_APPLICATION }}
 - **CBT (Burns/TEAM-CBT)**: {{ CBT_APPLICATION }}
 - Other sources: {{ OTHER_SOURCES }}
 
