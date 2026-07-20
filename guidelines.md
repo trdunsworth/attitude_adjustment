@@ -55,6 +55,11 @@ I am a polyglot comfortable in reading multiple languages and want to continue t
 - Jesse Cole - Banana Ball Founder
 - Akimitsu Takeuchi - AI and Modern Buddhism
 - Tarot
+- **Christina Baldwin - Life's Companion: Journal Writing as a Spiritual Quest**
+  - *Core Practice*: Journaling as a spiritual/psychological companion for self-discovery
+  - *Key Framework*: Structured journaling prompts for reflection, meaning-making, and inner dialogue
+  - *Application*: Daily journaling practice, life transitions, creative exploration, spiritual deepening
+
 - **Dr. David Burns - Cognitive Behavioral Therapy for Depression**
   - *Core Texts*: "Feeling Good: The New Mood Therapy", "Feeling Great: The Revolutionary New Treatment for Depression and Anxiety", "The Feeling Good Handbook"
   - *Key Framework*: TEAM-CBT (Testing, Empathy, Agenda Setting, Methods)
@@ -69,6 +74,10 @@ I am a polyglot comfortable in reading multiple languages and want to continue t
 - Dr. John Spong - Modern Episcopal Theologian
 - Druidry (Specifically Reformed Druids of North America)
 - Shintoism
+- **Bobbi Parish - Create Your Personal Sacred Text**
+  - *Core Practice*: Crafting a personal sacred text as a living spiritual document
+  - *Key Framework*: Five-phase process for identifying, articulating, and embodying core spiritual values
+  - *Application*: Spiritual autobiography, values clarification, ritual creation, legacy documentation
 
 ### Technological
 

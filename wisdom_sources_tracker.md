@@ -110,6 +110,62 @@ Daily application: [x] Yes | [ ] Occasionally | [ ] No
 Primary tool: Daily Mood Log Template (daily_mood_log_template.md)
 Research doc: David_Burns_CBT_Research_Document.md
 
+#### Christina Baldwin - Life's Companion: Journal Writing as a Spiritual Quest
+**Primary Texts**: "Life's Companion: Journal Writing as a Spiritual Quest" (1990/1996), "One to One: Self-Understanding Through Journal Writing" (1977/1991), "The Seven Whispers: A Spiritual Practice for Times Like These" (2005), "Storycatcher" (2005)
+
+**Core Framework**: Journal writing as contemplative practice—a "life's companion" that witnesses, mirrors, and walks alongside through all life seasons. Not record-keeping but relationship-building with the self.
+
+**Key Principles**:
+- **Journal as Companion** - The journal is a relationship, not a record; a spiritual companion for the voyage inward
+- **Writing as Prayer/Contemplation** - Handwriting slows thinking to the speed of the soul; body-mind connection typing bypasses
+- **Structure Serves Spirit** - Prompts and forms are doorways, not constraints; safe containers for the soul to speak
+- **Spiral of Deepening** - We return to themes at deeper levels: Surface → Pattern → Core → Source
+
+**Four Modes of Journal Writing**:
+1. **Catharsis/Release** - Dumping, venting, clearing emotional debris
+2. **Description/Observation** - Noticing outer world and inner landscape with precision
+3. **Reflection/Meaning-Making** - "What does this mean?" "What is this teaching me?"
+4. **Vision/Intention** - Imagining forward, setting direction, calling forth what wants to emerge
+
+**Signature Techniques**:
+- **Dialogue Writing** - Two-voice conversations between parts of self, or self and person/situation/archetype/symptom/Divine
+- **List of 100** - Generate 100 responses to a single prompt without stopping; bypasses internal critic, reveals patterns/shadow/wisdom
+- **Unsent Letters** - Letters written with no intention to send; completes unfinished emotional business
+- **Life Chapters/Autobiographical Mapping** - Naming life chapters, identifying current chapter, seeing narrative arc
+- **Morning Pages** - 3 pages handwritten stream-of-consciousness first thing (adapted from Cameron)
+- **Evening Harvest** - Three moments that mattered, one self-observation, one question for sleep
+
+**Seven Whispers** (Spiritual Discernment Framework):
+1. Trust the timing of your life
+2. Face the truth of your situation
+3. Listen to your body's wisdom
+4. Rest in the unknown
+5. Choose your companions wisely
+6. Claim your creative power
+7. Surrender to the mystery
+
+**Practical Applications**:
+- **Daily Practice**: Morning Pages + Evening Harvest + Daily Prompt Rotation (7-day cycle)
+- **Weekly Deepening**: Pattern review, one dialogue, spiral check-in
+- **Monthly Harvest**: Read month's entries, create harvest page, name intention
+- **Quarterly Retreat**: Life chapter review, dialogue with Future Self, visioning, ritual
+- **Transitions/Decisions**: Dialogue with options, List of 100 on "What I want/What I fear", unsent letters
+- **Grief/Shadow**: Unsent letters to lost ones, dialogue with grief, List of 100 avoidances
+
+**Related Sources**: 
+- **Burns (CBT)**: Morning Pages = thought download; Dialogue = Externalization of Voices; List of 100 = behavioral experiment data
+- **Moore (Soul Psychology)**: Journal as "care of the soul" container; Life Chapters = soul's curriculum; Spiral = depth psychology
+- **Webb (CEN)**: Unsent letters to caregivers; Dialogue with Emotionally Neglected Child part
+- **Buddhism/Taoism**: Morning Pages = mindfulness of thinking; Spiral = spiral path; Sabbath journaling = non-striving
+- **Stoicism**: Evening Harvest = Marcus Aurelius evening reflection; Dialogue = Socratic self-examination
+- **Takeuchi (AI/Buddhism)**: Journal as human attention training counterbalance to AI generation; List of 100 = divergent thinking practice
+
+**Progress in Attitude Adjustment**:
+Current status: [x] In progress | [ ] Completed
+Daily application: [x] Yes | [ ] Occasionally | [ ] No
+Primary tool: Daily Journal Template (daily-journal-template.md with Templater)
+Research doc: Christina_Baldwin_Research_Document.md
+
 #### Personal Tarot Practice (40+ years experience)
 A lifelong tarot practitioner who views tarot as a tool for self-reflection, personal growth, and intuitive development. The practice involves daily card pulls for guidance, studying tarot symbolism, and developing intuitive interpretation skills to enhance self-understanding.
 
