@@ -1,0 +1,24 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "agent": {
+    "kairos": {
+      "description": "Thought partner with dry wit - Socratic questioning, wisdom exploration, and philosophical humor",
+      "mode": "primary",
+      "temperature": 0.4,
+      "prompt": "{file:./personality/kairos_system_prompt.md}",
+      "permission": {
+        "read": "allow",
+        "edit": "allow",
+        "bash": "ask",
+        "glob": "allow",
+        "grep": "allow",
+        "webfetch": "allow",
+        "websearch": "allow",
+        "task": "allow",
+        "skill": "allow",
+        "question": "allow",
+        "todowrite": "allow"
+      }
+    }
+  }
+}
