@@ -226,6 +226,59 @@ Ancient Japanese religion focusing on:
 - **Respect for tradition** while adapting to modern life
 - **Prayer and worship** practices for spiritual connection
 
+### Countercultural & Esoteric Sources
+
+#### Stuart Carr-Gomm
+British historian and archaeologist specializing in ancient British monuments and stone circles. His work explores:
+- **Deep time perspective** - Connecting present experience to ancient landscapes
+- **Place-based awareness** - Developing sensitivity to the history and energy of locations
+- **Cultural continuity** - Understanding how ancient wisdom informs modern life
+- **Landscape literacy** - Reading the stories embedded in terrain and monuments
+
+#### Ross Nichols
+Founder of the Order of Bards, Ovates & Druids (OBOD). His work integrates:
+- **Creative expression** - Poetry and art as spiritual practice
+- **Seasonal awareness** - Aligning life rhythms with natural cycles
+- **Celtic wisdom** - Accessing ancient Irish and British spiritual traditions
+- **Mythic imagination** - Engaging with stories as vehicles for wisdom
+
+#### Robert Anton Wilson
+American author, philosopher, and futurist known for:
+- **Model agnosticism** - Holding beliefs lightly, using "maybe" as a tool
+- **Cognitive flexibility** - Shifting between models as needed
+- **Humor as wisdom** - Using laughter to gain perspective
+- **Conspiracy awareness** - Questioning official narratives without paranoia
+
+#### Antero Alli
+Finnish-American astrologer, filmmaker, and ritual artist. His work explores:
+- **Psychic development** - Enhancing intuitive and psychic abilities
+- **Ritual technology** - Creating effective ceremonies for transformation
+- **Finnish shamanism** - Connecting with Nordic spiritual traditions
+- **Vertical Incline** - Movement from mundane to spiritual awareness
+
+#### Church of the SubGenius
+Parody religion with genuine spiritual insights:
+- **Slack as spiritual practice** - Finding peace in idleness
+- **Anti-consumerism** - Rejecting the demand to always want more
+- **Satire as wisdom** - Using humor to expose absurdity
+- **Existential humor** - Laughing at the meaninglessness of life
+
+#### Discordianism
+Parody religion focused on chaos and humor:
+- **Chaos as creative force** - Embracing disorder as teacher
+- **Pattern recognition** - Noticing connections everywhere (and laughing at them)
+- **Mental flexibility** - Changing beliefs as needed
+- **The Law of Fives** - Finding patterns everywhere (and questioning them)
+
+#### Phil Carr-Gomm
+Former Chosen Chief of OBOD, author and psychologist. His work emphasizes:
+- **Accessible Druidry** - Making ancient wisdom available to modern seekers
+- **Creative expression** - Poetry, song, and story as spiritual practice
+- **Nature connection** - Deepening relationship with the natural world
+- **Psychology and spirituality** - Integrating inner work with spiritual development
+- **Seasonal awareness** - Aligning life with natural cycles
+- **The Bardic arts** - Cultural memory through creative expression
+
 ### Technological Sources
 
 #### R language

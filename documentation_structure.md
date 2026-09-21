@@ -20,6 +20,22 @@ This document provides an overview of the Attitude Adjustment documentation syst
 1. **daily_reflection_template.md** - Daily reflection template optimized for Obsidian
 2. **weekly_reflection_template.md** - Weekly reflection template with progress tracking
 
+### Research Documents (Philosophical & Spiritual)
+
+1. **Stoicism_Research_Document.md** - Ancient Greek philosophical school
+2. **Taoism_Research_Document.md** - Chinese philosophical and spiritual tradition
+3. **Buddhism_Research_Document.md** - Indian spiritual tradition
+4. **Druidry_Research_Document.md** - Celtic spiritual tradition
+5. **Freemasonry_Research_Document.md** - Fraternal organization with moral teachings
+6. **New_Age_Research_Document.md** - Modern spiritual and metaphysical traditions
+7. **Stuart_Carr_Gomm_Research_Document.md** - British historian and archaeologist
+8. **Phil_Carr_Gomm_Research_Document.md** - Former Chosen Chief of OBOD, author and psychologist
+9. **Ross_Nichols_Research_Document.md** - Founder of Order of Bards, Ovates & Druids
+10. **Robert_Anton_Wilson_Research_Document.md** - American author and philosopher
+11. **Antero_Alli_Research_Document.md** - Finnish-American astrologer and ritual artist
+12. **Church_of_the_Subgenius_Research_Document.md** - Parody religion and satire
+13. **Discordianism_Research_Document.md** - Parody religion focused on chaos and humor
+
 ## File Structure
 
 ### Main Categories
